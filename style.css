@@ -1,0 +1,254 @@
+.header{
+    background-color: #f5f5f5;
+    width: 100%;
+    margin: 3px 0px;
+}
+.change{
+    width: 115px;
+    height: 57.14px;
+}
+.an-change{
+    width: 200px;
+}
+.logos{
+    
+display: inline-block;
+margin: 1px 220px;
+width: 100%;
+
+}
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.border{
+    border: 1px solid grey;
+}
+.second-header{
+    background-color: white;
+    width: 100%;
+    
+    margin-top: 3px;
+
+}
+.navbar{
+margin: 0 220px;
+position: sticky;
+}
+.same{
+    display: inline-block;
+    margin-top: 3px;
+
+    width: 125px;
+    
+ font-size: 32px;
+ align-items: center;
+ text-align: center;
+ cursor: pointer;
+}
+
+.sixth-icon{
+    width: 125px;
+    
+}
+.home-icon{
+background-color: darkgray;
+}
+    
+    
+
+.span{
+    font-size: 17px;
+}
+.left-side{
+    display: inline-block;
+    width: 25px;
+    background-color: black;
+    height: 490px;
+    margin-left: 0px;
+    
+
+}
+.right-side{
+    display: inline-block;
+    width: 25px;
+background-color: black;
+height: 490px;
+position: absolute;
+position: fixed;
+top: 171px;
+
+right: 0px;
+
+}
+.main{
+    width: 100%;
+    
+    position: relative;
+    height: 950px;
+    background-image: url(https://assets.pokemon.com/static2/_ui/img/chrome/container_bg.png);
+}.login{
+    background-color: rgb(113, 238, 113);
+    width: 70px;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 12px;
+
+}
+#span{
+    font-size: 30px;
+    padding-top: 17px;
+    height: 70px;
+    background-color: darkgray;
+    width: 70px;
+    border-bottom-right-radius: 10px;
+}
+.first-image{
+    display: inline-block;
+    width: 701px;
+}
+.first-image>img{
+    width: 700px;
+}
+.second-image{
+    display: inline-block;
+    width: 280px;
+    position: absolute;
+    top: 0px;
+}
+.second-image>img{
+width: 280px;
+}
+.content-images{
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    left: 220px;
+    
+}.third-image>{
+    width: 290px;
+    
+}
+.cards-containner{
+
+    position:absolute;
+    left: 33px;
+    margin-top: 50px;
+    padding: 3px 16px;
+    background-image: url(https://assets.pokemon.com/static2/_ui/img/chrome/container_bg.png);
+}
+.icon-cards{
+    display: inline-block;
+    width: 250px;
+    background-color: grey;
+    border: 1px solid blue;
+    margin-left: -3px;
+    position: relative;
+    z-index: -2;
+    
+}
+.icon-cards>img {
+    width: 160px;
+
+}
+.cards-name{
+    background-color: black;
+    height: 100px;
+}
+.icon-cards:hover{
+    cursor: pointer;
+    
+}
+.cards-name>h2{
+
+    color: white;
+    text-align: center;
+}.icon-cards:hover{
+background-color: rgb(214, 43, 43);
+}
+.last-containner{
+    position: absolute;
+    top: 1700px;
+    left: 235px;
+    background-image: url(https://assets.pokemon.com/static2/_ui/img/chrome/container_bg.png);
+
+}.last-cards{
+display: inline-block;
+width: 320px;
+margin: 0px;
+
+
+
+
+}
+.last-cards>img{
+    width: 300px;
+    margin: 0px;
+    height: 100%;
+
+}.one{
+    padding-bottom: 33px;
+    margin-top: 30px;
+    vertical-align: top;
+}
+.three{
+    vertical-align: top;
+    margin-top: 26px;
+}
+.information{
+    display: inline-block;
+    width: 350px;
+font-size: 17px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+    height: 200px;
+    
+}
+.footer{
+    width: 100%;
+    
+    margin-top: 35px;
+    position: absolute;
+    top: 2500px;
+    text-align: center;
+    background-color: black;
+    z-index: -1;
+}
+.footer-center{
+    width: 902px;
+    
+    margin-left: 225px;
+    margin-right: 230px;
+    color: white;
+    
+}#input{
+    width: 280px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+select{
+    height: 30px;
+width: 150px;
+}
+button{
+    width: 90px;
+    height: 40px;
+    margin-top: 10px;
+    margin-right:205px;
+    background-color: darkseagreen;
+}
+.footer-icon{
+    display: inline-block;
+    width: 290px;
+
+    vertical-align: top;
+
+}
+li{
+    text-align: justify;
+    list-style-type: none;
+}
